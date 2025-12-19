@@ -19,37 +19,6 @@ Provide a single source of truth for:
 
 ---
 
-## 📸 Dashboard Screenshots
-
-### Executive Overview
-This view provides a leadership-level snapshot of overall product health, including total users, active users, churn rate, and lifetime value.
-
-![Executive Overview](screenshots/dashboard_executive_overview.jpg)
-
----
-
-### Churn Drivers & Segmentation
-This section breaks down churn by subscription plan, engagement level, and customer support interactions to identify high-risk user segments.
-
-![Churn Drivers](screenshots/dashboard_churn_drivers.jpg)
-
----
-
-### Engagement & Retention Analysis
-Visualizes how user engagement and product usage correlate with churn and retention trends over time.
-
-![Engagement Retention](screenshots/dashboard_engagement_retention.jpg)
-
----
-
-### Revenue & Lifetime Value Impact
-Translates churn into financial impact by highlighting revenue at risk and lifetime value distribution across segments.
-
-![Revenue LTV](screenshots/dashboard_revenue_ltv.jpg)
-
----
-
-
 ## 📄 Page 1: Executive Overview
 
 ### Purpose
@@ -72,6 +41,11 @@ Give leadership a **high-level snapshot** of product health and retention perfor
 ### Key Questions Answered
 - Is churn improving or worsening over time?
 - How healthy is the overall user base?
+
+### Executive Overview
+This view provides a leadership-level snapshot of overall product health, including total users, active users, churn rate, and lifetime value.
+
+![Executive Overview](screenshots/dashboard_executive_overview.jpg)
 
 ---
 
@@ -100,6 +74,13 @@ Diagnose **why users churn** by breaking behavior into segments.
 - How strongly does engagement influence churn?
 - Does customer support interaction correlate with churn?
 
+## 📸 Dashboard Screenshots
+
+### Churn Drivers & Segmentation
+This section breaks down churn by subscription plan, engagement level, and customer support interactions to identify high-risk user segments.
+
+![Churn Drivers](screenshots/dashboard_churn_drivers.jpg)
+
 ---
 
 ## 📄 Page 3: Engagement & Retention Analysis
@@ -115,6 +96,11 @@ Understand **user behavior patterns** that lead to retention or churn.
 ### Key Questions Answered
 - What engagement threshold predicts churn?
 - How does usage frequency relate to retention?
+
+### Engagement & Retention Analysis
+Visualizes how user engagement and product usage correlate with churn and retention trends over time.
+
+![Engagement Retention](screenshots/dashboard_engagement_retention.jpg)
 
 ---
 
@@ -132,6 +118,11 @@ Translate churn into **financial impact** for leadership.
 - Which segments generate the most value?
 - How much revenue is at risk due to churn?
 - Which users should be prioritized for retention?
+
+### Revenue & Lifetime Value Impact
+Translates churn into financial impact by highlighting revenue at risk and lifetime value distribution across segments.
+
+![Revenue LTV](screenshots/dashboard_revenue_ltv.jpg)
 
 ---
 
