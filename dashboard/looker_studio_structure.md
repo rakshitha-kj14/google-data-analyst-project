@@ -24,28 +24,28 @@ Provide a single source of truth for:
 ### Executive Overview
 This view provides a leadership-level snapshot of overall product health, including total users, active users, churn rate, and lifetime value.
 
-![Executive Overview](dashboard/screenshots/dashboard_executive_overview.jpg)
+![Executive Overview](screenshots/dashboard_executive_overview.jpg)
 
 ---
 
 ### Churn Drivers & Segmentation
 This section breaks down churn by subscription plan, engagement level, and customer support interactions to identify high-risk user segments.
 
-![Churn Drivers](dashboard/screenshots/dashboard_churn_drivers.jpg)
+![Churn Drivers](screenshots/dashboard_churn_drivers.jpg)
 
 ---
 
 ### Engagement & Retention Analysis
 Visualizes how user engagement and product usage correlate with churn and retention trends over time.
 
-![Engagement Retention](dashboard/screenshots/dashboard_engagement_retention.jpg)
+![Engagement Retention](screenshots/dashboard_engagement_retention.jpg)
 
 ---
 
 ### Revenue & Lifetime Value Impact
 Translates churn into financial impact by highlighting revenue at risk and lifetime value distribution across segments.
 
-![Revenue LTV](dashboard/screenshots/dashboard_revenue_ltv.jpg)
+![Revenue LTV](screenshots/dashboard_revenue_ltv.jpg)
 
 ---
 
