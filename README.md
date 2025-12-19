@@ -110,19 +110,28 @@ If applied in a real product environment, these insights could:
 ---
 
 ## 📂 Repository Structure
-google-data-analyst-project/
+google-data-analyst-project
+/
 │
 
-├── data/
+├── data
+/
+
 │ └── subscription_user_behavior.csv
 
-├── analysis/
+├── analysis
+/
+
 │ └── analysis.ipynb
 
-├── sql/
+├── sql
+/
+
 │ └── churn_analysis.sql
 
-├── dashboard/
+├── dashboard
+/
+
 │ └── looker_studio_structure.md
 
 └── README.md
